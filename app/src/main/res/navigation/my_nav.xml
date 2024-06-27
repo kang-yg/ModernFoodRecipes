@@ -16,4 +16,10 @@
         android:name="com.example.modernfoodrecipes.JokeFragment"
         android:label="fragment_joke"
         tools:layout="@layout/fragment_joke" />
+
+    <fragment
+        android:id="@+id/favoiteFragment"
+        android:name="com.example.modernfoodrecipes.FavoiteFragment"
+        android:label="fragment_favoite"
+        tools:layout="@layout/fragment_favoite" />
 </navigation>
